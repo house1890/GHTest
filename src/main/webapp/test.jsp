@@ -9,6 +9,8 @@
 <body>
 	<h2>This is for Github connection</h2>
 	<hr>
+	<h3>It is nice to meet you</h3>
+	<hr>
 		<%= new java.util.Date() %>
 </body>
 </html>
